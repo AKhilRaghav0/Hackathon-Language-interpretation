@@ -23,7 +23,7 @@ The **Hackathon-Language-Interpretation** project aims to facilitate communicati
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/Hackathon-Language-Interpretation.git
+   git clone https://github.com/AKhilRaghav0/Hackathon-Language-Interpretation.git
    cd Hackathon-Language-Interpretation
    ```
 
